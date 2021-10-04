@@ -1,0 +1,1 @@
+# A05Q01-Create-You-Own-built-in-class-method
